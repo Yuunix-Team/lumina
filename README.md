@@ -1,2 +1,2 @@
 # lumina
-Lumina Desktop Environment
+Luminative Desktop Environment, written in JavaScript
